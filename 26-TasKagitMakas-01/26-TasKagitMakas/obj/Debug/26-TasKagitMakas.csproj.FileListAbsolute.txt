@@ -1,0 +1,28 @@
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.exe.config
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.exe
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.pdb
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\obj\Debug\_26_TasKagitMakas.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\obj\Debug\_26_TasKagitMakas.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.exe
+D:\2017-2018 ntp ıuygılamaları\26-TasKagitMakas\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.pdb
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.exe.config
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.exe
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.pdb
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\_26_TasKagitMakas.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\_26_TasKagitMakas.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.exe
+D:\2017-2018 ntp ıuygılamaları\27-TasKagitMakas-01\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.exe.config
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\bin\Debug\26-TasKagitMakas.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csprojResolveAssemblyReference.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\_26_TasKagitMakas.Form1.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\_26_TasKagitMakas.Properties.Resources.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csproj.GenerateResource.Cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\26-TasKagitMakas-01\26-TasKagitMakas\obj\Debug\26-TasKagitMakas.pdb

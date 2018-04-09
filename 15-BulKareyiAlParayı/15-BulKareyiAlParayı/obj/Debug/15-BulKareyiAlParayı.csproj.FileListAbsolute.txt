@@ -1,0 +1,31 @@
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe.config
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.pdb
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\_15_BulKareyiAlParayı.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\_15_BulKareyiAlParayı.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.exe
+D:\2017-2018 ntp ıuygılamaları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.pdb
+C:\Users\Muhammet Güler\Desktop\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe.config
+C:\Users\Muhammet Güler\Desktop\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.exe
+C:\Users\Muhammet Güler\Desktop\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.pdb
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe.config
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.exe
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.pdb
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.pdb
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csprojResolveAssemblyReference.cache
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\_15_BulKareyiAlParayı.Form1.resources
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\_15_BulKareyiAlParayı.Properties.Resources.resources
+E:\ \Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csproj.GenerateResource.Cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe.config
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\bin\Debug\15-BulKareyiAlParayı.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csprojResolveAssemblyReference.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\_15_BulKareyiAlParayı.Form1.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\_15_BulKareyiAlParayı.Properties.Resources.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csproj.GenerateResource.Cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.csproj.CoreCompileInputs.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör (2)\Hocanın yaptıkları\15-BulKareyiAlParayı\15-BulKareyiAlParayı\obj\Debug\15-BulKareyiAlParayı.pdb

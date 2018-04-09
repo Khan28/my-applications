@@ -1,0 +1,15 @@
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\bin\Debug\21-HafızaOyunu.exe.config
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\bin\Debug\21-HafızaOyunu.exe
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\bin\Debug\21-HafızaOyunu.pdb
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\_21_HafızaOyunu.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\_21_HafızaOyunu.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.exe
+D:\2017-2018 ntp ıuygılamaları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.pdb
+C:\Users\Muhammet Güler\Desktop\21-HafızaOyunu\21-HafızaOyunu\bin\Debug\21-HafızaOyunu.exe.config
+C:\Users\Muhammet Güler\Desktop\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.exe
+C:\Users\Muhammet Güler\Desktop\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.pdb
+E:\ \Hocanın yaptıkları\21-HafızaOyunu\21-HafızaOyunu\bin\Debug\21-HafızaOyunu.exe.config
+E:\ \Hocanın yaptıkları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.exe
+E:\ \Hocanın yaptıkları\21-HafızaOyunu\21-HafızaOyunu\obj\Debug\21-HafızaOyunu.pdb
