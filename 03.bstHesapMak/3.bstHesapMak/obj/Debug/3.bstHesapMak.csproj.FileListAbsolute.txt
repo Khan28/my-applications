@@ -1,0 +1,9 @@
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\bin\Debug\3.bstHesapMak.exe.config
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\bin\Debug\3.bstHesapMak.exe
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\bin\Debug\3.bstHesapMak.pdb
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\obj\Debug\3.bstHesapMak.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\obj\Debug\_3.bstHesapMak.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\obj\Debug\_3.bstHesapMak.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\obj\Debug\3.bstHesapMak.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\obj\Debug\3.bstHesapMak.exe
+D:\2017-2018 ntp ıuygılamaları\3.bstHesapMak\3.bstHesapMak\obj\Debug\3.bstHesapMak.pdb

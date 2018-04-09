@@ -1,0 +1,21 @@
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.exe.config
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\_09_1_tom_ve_jarry.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\_09_1_tom_ve_jarry.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.exe
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.pdb
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.exe
+D:\2017-2018 ntp ıuygılamaları\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.pdb
+C:\Users\inan\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.exe.config
+C:\Users\inan\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.exe
+C:\Users\inan\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.pdb
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.exe.config
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.exe
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.pdb
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.exe
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\bin\Debug\09-1-tom ve jarry.pdb
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.csprojResolveAssemblyReference.cache
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\_09_1_tom_ve_jarry.Form1.resources
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\_09_1_tom_ve_jarry.Properties.Resources.resources
+C:\Users\Muhammet Güler\Desktop\09-1-tom ve jarry\09-1-tom ve jarry\obj\Debug\09-1-tom ve jarry.csproj.GenerateResource.Cache
