@@ -1,0 +1,24 @@
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\bin\Debug\37-RainMan.exe.config
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\bin\Debug\37-RainMan.exe
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\bin\Debug\37-RainMan.pdb
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\37-RainMan.csprojResolveAssemblyReference.cache
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\_37_RainMan.Form1.resources
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\_37_RainMan.Properties.Resources.resources
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\37-RainMan.csproj.GenerateResource.Cache
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\37-RainMan.exe
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\37-RainMan.pdb
+D:\2017-2018 SINAVLAR\37-RainMan\37-RainMan\obj\Debug\_37_RainMan.Resource1.resources
+D:\2017-2018 ntp ıuygılamaları\37-RainMan\37-RainMan\bin\Debug\37-RainMan.exe.config
+D:\2017-2018 ntp ıuygılamaları\37-RainMan\37-RainMan\obj\Debug\37-RainMan.exe
+D:\2017-2018 ntp ıuygılamaları\37-RainMan\37-RainMan\obj\Debug\37-RainMan.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\bin\Debug\37-RainMan.exe.config
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\bin\Debug\37-RainMan.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\bin\Debug\37-RainMan.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\37-RainMan.csprojResolveAssemblyReference.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\_37_RainMan.Form1.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\_37_RainMan.Properties.Resources.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\_37_RainMan.Resource1.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\37-RainMan.csproj.GenerateResource.Cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\37-RainMan.csproj.CoreCompileInputs.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\37-RainMan.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör\37-RainMan\37-RainMan\obj\Debug\37-RainMan.pdb

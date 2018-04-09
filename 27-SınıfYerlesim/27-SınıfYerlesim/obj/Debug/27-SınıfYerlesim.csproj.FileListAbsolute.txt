@@ -1,0 +1,19 @@
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\bin\Debug\27-SınıfYerlesim.exe.config
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\bin\Debug\27-SınıfYerlesim.exe
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\bin\Debug\27-SınıfYerlesim.pdb
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\_27_SınıfYerlesim.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\_27_SınıfYerlesim.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.exe
+D:\2017-2018 ntp ıuygılamaları\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\bin\Debug\27-SınıfYerlesim.exe.config
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\bin\Debug\27-SınıfYerlesim.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\bin\Debug\27-SınıfYerlesim.pdb
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.csprojResolveAssemblyReference.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\_27_SınıfYerlesim.Form1.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\_27_SınıfYerlesim.Properties.Resources.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.csproj.GenerateResource.Cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.csproj.CoreCompileInputs.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.exe
+C:\Users\Kadirhan\Desktop\Yeni klasör\27-SınıfYerlesim\27-SınıfYerlesim\obj\Debug\27-SınıfYerlesim.pdb

@@ -1,0 +1,9 @@
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\bin\Debug\28-puzzle-01.exe.config
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\bin\Debug\28-puzzle-01.exe
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\bin\Debug\28-puzzle-01.pdb
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\obj\Debug\28-puzzle-01.csprojResolveAssemblyReference.cache
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\obj\Debug\_28_puzzle_01.Form1.resources
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\obj\Debug\_28_puzzle_01.Properties.Resources.resources
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\obj\Debug\28-puzzle-01.csproj.GenerateResource.Cache
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\obj\Debug\28-puzzle-01.exe
+D:\2017-2018 ntp ıuygılamaları\28-puzzle-01\28-puzzle-01\obj\Debug\28-puzzle-01.pdb
