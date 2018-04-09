@@ -1,0 +1,9 @@
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\bin\Release\C_Sharp_Form_On_Numara_Oyunu.exe
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\bin\Release\C_Sharp_Form_On_Numara_Oyunu.pdb
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\ResolveAssemblyReference.cache
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\C_Sharp_Form_On_Numara_Oyunu.OnNumaraForm.resources
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\C_Sharp_Form_On_Numara_Oyunu.Properties.Resources.resources
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\ResGen.read.1.tlog
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\ResGen.write.1.tlog
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\C_Sharp_Form_On_Numara_Oyunu.exe
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_7\C_Sharp_Form_On_Numara_Oyunu\C_Sharp_Form_On_Numara_Oyunu\obj\Release\C_Sharp_Form_On_Numara_Oyunu.pdb
