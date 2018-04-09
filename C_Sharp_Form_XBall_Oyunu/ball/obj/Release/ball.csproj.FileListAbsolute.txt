@@ -1,0 +1,5 @@
+C:\Users\Kadirhan\Desktop\Yeni klasör\C_Sharp_Form_XBall_Oyunu\ball\obj\Release\ball.csprojResolveAssemblyReference.cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\C_Sharp_Form_XBall_Oyunu\ball\obj\Release\Xball.Xball_Form.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\C_Sharp_Form_XBall_Oyunu\ball\obj\Release\Xball.Properties.Resources.resources
+C:\Users\Kadirhan\Desktop\Yeni klasör\C_Sharp_Form_XBall_Oyunu\ball\obj\Release\ball.csproj.GenerateResource.Cache
+C:\Users\Kadirhan\Desktop\Yeni klasör\C_Sharp_Form_XBall_Oyunu\ball\obj\Release\ball.csproj.CoreCompileInputs.cache
